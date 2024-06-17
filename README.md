@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,8 +49,47 @@ To learn more about developing your project with Expo, look at the following res
 Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-=======
+- # [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
 # rn-assignment4-11335214
+
 Public repo for assignment 4
->>>>>>> ef0816f1ce8c6d3e7c86f602f54a1bc5b63c4255
+
+> > > > > > > ef0816f1ce8c6d3e7c86f602f54a1bc5b63c4255
+
+# App Description
+
+---
+
+- The app is basically a job postings app which accepts users using a login form and then displays to the users available job postings when they are successfully logged in.
+
+# Pages Description
+
+---
+
+- The app has two components, the
+
+* Login page
+* Home page
+
+# Login Page
+
+- The login page is the page that authenticates users and it is also a page that briefly welcomes users.
+- When a user is not registered, there is the option for the user to register with the help of the register button on the page.
+
+---
+
+# Home Page
+
+- The home page is a page that displays the job postings that are available. This page is a page that lists all jobs, their salary amounts and also their locations.
+
+---
+
+# Components Used
+
+- In my project, some of the components I used include:
+
+* FlatList: This component renders a list of items in an array.
+* Button: This component created a button which can be clicked on. It was used for the Register button on the Login page.
+* ScrollView: This component is used to make a page scrollable, thus, without it, a page with contents that overlaps the height of the window will not be seen.
+* TextInput: The TextInput component is helpful and used in creating or accepting user inputs. This component was used in creating the input fields in the Login page.

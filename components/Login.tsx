@@ -21,7 +21,7 @@ const Login = () => {
         style={{
           display: "flex",
           flex: 1,
-          left: 20
+          left: 20,
         }}
       >
         {/*View component that encloses the text on the upper section*/}
