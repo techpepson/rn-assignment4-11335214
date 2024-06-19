@@ -1,3 +1,6 @@
+![login](https://github.com/techpepson/rn-assignment4-11335214/assets/124635484/844fccda-3237-4e0f-aa5d-21efccb66daa)
+![home2](https://github.com/techpepson/rn-assignment4-11335214/assets/124635484/20da9e7f-3141-4ff2-b399-27226d418716)
+![home1](https://github.com/techpepson/rn-assignment4-11335214/assets/124635484/ea0bf0b1-a6d5-4435-9f27-3f133b4512e7)
 <<<<<<< HEAD
 
 # Welcome to your Expo app 👋
